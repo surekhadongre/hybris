@@ -1,2 +1,0 @@
-## messageSource=classpath:/nendrasyscore/messages/email-orderReceived_$lang.properties
-${ctx.messages.received} ${ctx.order.code}
