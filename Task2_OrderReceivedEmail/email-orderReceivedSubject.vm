@@ -1,3 +1,0 @@
-${ctx.messages.getMessage('emailSubject', ${ctx.order.code})}
-
-Your order has been received !!
